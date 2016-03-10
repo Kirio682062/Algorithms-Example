@@ -1,5 +1,5 @@
 ##My second exercise
-### do some computer algorithms, C++
+### do some computer algorithms, Java
 ***
 ###I will
 
